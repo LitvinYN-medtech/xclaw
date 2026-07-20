@@ -1,0 +1,7 @@
+Miniforge3-MacOSX-arm64.sh
+gateway/chroma_db/
+*.log
+gateway/*.log
+gateway/.runtime/
+__pycache__/
+*.save
